@@ -4,6 +4,7 @@ QuickSnap is a React + Node.js (Express) based web application that allows you t
 - Capture full-page screenshots of any website URL using Puppeteer
 - Analyze screenshots with OCR (Tesseract.js) to extract readable text
 - Detect top colors from the image using ColorThief
+- Generate the HTML and CSS code using Puppeteer
 
 ## Features
 - Capture full-page website screenshots
